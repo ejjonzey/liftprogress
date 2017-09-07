@@ -57,8 +57,6 @@ gem 'bootstrap', '~> 4.0.0.beta'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
-gem 'sass-rails', '~> 5.0'
-
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 gem 'react-rails', '~> 2.2', '>= 2.2.1'
